@@ -12,13 +12,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2023 - To: 12 July 2023
+From: 06 July 2023 - To: 13 July 2023
 
-TypeScript       39 hrs 27 mins  ████████████████████▒░░░░   81.28 %
-Docker           2 hrs 12 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-JSON             1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-Markdown         1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-Other            1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+TypeScript       35 hrs 59 mins  ████████████████████░░░░░   80.21 %
+Docker           2 hrs 12 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+PHP              1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Markdown         1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+JSON             1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 ```
 
 <!--END_SECTION:waka-->
