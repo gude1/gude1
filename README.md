@@ -12,13 +12,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2023 - To: 07 September 2023
+From: 01 September 2023 - To: 08 September 2023
 
-TypeScript     33 hrs 31 mins  █████████████████████░░░░   84.24 %
-PHP            4 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
-CSS            33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-GDScript       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-Bash           10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+TypeScript     28 hrs 23 mins  ████████████████████▓░░░░   82.09 %
+PHP            4 hrs 54 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
+GDScript       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+CSS            13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Bash           10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
