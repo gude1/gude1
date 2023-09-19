@@ -12,13 +12,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2023 - To: 16 September 2023
+From: 10 September 2023 - To: 17 September 2023
 
-TypeScript    10 hrs 23 mins  ██████████████████░░░░░░░   71.81 %
-Markdown      1 hr 40 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-PHP           1 hr 33 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-JSON          24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-SQL           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+TypeScript    8 hrs 37 mins   █████████████████████░░░░   84.26 %
+PHP           1 hr 3 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+SQL           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+JSON          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Ezhil         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
