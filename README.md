@@ -11,12 +11,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2024 - To: 09 February 2024
+From: 03 February 2024 - To: 10 February 2024
 
-TypeScript   26 hrs 15 mins  ███████████████████████▓░   94.69 %
-PHP          43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-JSON         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+TypeScript   25 hrs 47 mins  ████████████████████████░   95.55 %
+PHP          43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+JSON         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
