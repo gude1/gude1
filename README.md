@@ -11,13 +11,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2024 - To: 16 February 2024
+From: 11 February 2024 - To: 18 February 2024
 
-TypeScript   15 hrs 46 mins  ██████████████████▓░░░░░░   74.71 %
-PHP          4 hrs 22 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.72 %
-Other        38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+TypeScript   15 hrs 46 mins  █████████████▒░░░░░░░░░░░   53.16 %
+PHP          12 hrs 22 mins  ██████████▒░░░░░░░░░░░░░░   41.68 %
+Other        1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Bash         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
