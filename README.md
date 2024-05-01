@@ -11,13 +11,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 April 2024 - To: 28 April 2024
+From: 22 April 2024 - To: 29 April 2024
 
-TypeScript   14 hrs 33 mins  ███████████████████████░░   91.83 %
-JSON         54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
-JavaScript   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-XML          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Prolog       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript   16 hrs 29 mins  ███████████████████████▓░   94.27 %
+JSON         47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+JavaScript   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+XML          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Groovy       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
