@@ -11,13 +11,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2024 - To: 24 September 2024
+From: 18 September 2024 - To: 25 September 2024
 
-TypeScript        24 hrs 54 mins  ██████████████▒░░░░░░░░░░   57.73 %
-PHP               16 hrs          █████████▒░░░░░░░░░░░░░░░   37.09 %
-JavaScript        1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-CocoaPods         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Other             9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+TypeScript        24 hrs 35 mins  █████████████▓░░░░░░░░░░░   55.06 %
+PHP               17 hrs 30 mins  █████████▓░░░░░░░░░░░░░░░   39.20 %
+JavaScript        1 hr 24 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+JSON              38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+CocoaPods         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
