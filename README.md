@@ -11,13 +11,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 March 2025 - To: 20 March 2025
+From: 14 March 2025 - To: 21 March 2025
 
-TypeScript       29 hrs 4 mins   ██████████████████░░░░░░░   71.59 %
-PHP              4 hrs 33 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
-JSON             2 hrs 59 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
-SQL              1 hr 39 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-Blade Template   50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+TypeScript       22 hrs 32 mins  ████████████████▒░░░░░░░░   65.96 %
+PHP              4 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
+JSON             2 hrs 42 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+SQL              1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+Blade Template   50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
 <!--END_SECTION:waka-->
