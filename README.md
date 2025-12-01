@@ -11,13 +11,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2025 - To: 28 November 2025
+From: 22 November 2025 - To: 29 November 2025
 
-TypeScript        13 hrs 45 mins  █████████████████████▒░░░   85.27 %
-Groovy            1 hr 53 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-JavaScript        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-JSON              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-XML               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+TypeScript        15 hrs 57 mins  █████████████████████▓░░░   87.07 %
+Groovy            1 hr 53 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
+JavaScript        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+JSON              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+XML               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
