@@ -11,13 +11,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2026 - To: 07 June 2026
+From: 02 June 2026 - To: 09 June 2026
 
-Java              3 hrs 34 mins         █████████████████████▓░░░   87.12 %
-TypeScript        16 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-XML               6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Java Properties   5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Text              1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Java              4 hrs 26 mins         ████████████████▒░░░░░░░░   64.67 %
+TypeScript        1 hr 53 mins          ███████░░░░░░░░░░░░░░░░░░   27.51 %
+Java Properties   10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+XML               6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Other             5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
