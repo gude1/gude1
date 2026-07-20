@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gideon Owolabi
 - 👀 I’m interested in building efficient and scalable applications across the frontend and backend
-- 💞️ I’m looking to collaborate on <b>frontend(react)</b>, <b>mobile(react-native)</b> and <b>backend(Nodejs, Laravel)</b> projects
+- 💞️ I’m looking to collaborate on <b>frontend(react)</b>, <b>mobile(react-native)</b> and <b>backend(Laravel, Java)</b> projects
 - 📫 How to reach me <a href="mailto:gideoniyin2021@gmail.com">Mail</a>, <a href="https://www.linkedin.com/in/gideon-owolabi-9b667a232/">LinkedIn</a> and <a href="https://wa.me/2348055377085">Whatsapp</a>
 
 <!---
