@@ -11,13 +11,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2026 - To: 10 October 2026
+From: 04 October 2026 - To: 11 October 2026
 
-Other        7 hrs 36 mins         █████████████▒░░░░░░░░░░░   53.79 %
-TypeScript   4 hrs 37 mins         ████████▒░░░░░░░░░░░░░░░░   32.73 %
-Java         1 hr 39 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
-Markdown     8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-JSON         4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Other        10 hrs 54 mins        ████████████████░░░░░░░░░   63.74 %
+TypeScript   4 hrs 27 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.04 %
+Java         1 hr 32 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+Markdown     8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+JSON         2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
